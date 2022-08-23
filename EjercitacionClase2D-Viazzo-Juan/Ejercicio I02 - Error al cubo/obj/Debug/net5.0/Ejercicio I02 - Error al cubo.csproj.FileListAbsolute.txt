@@ -1,0 +1,16 @@
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\bin\Debug\net5.0\Ejercicio I02 - Error al cubo.exe
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\bin\Debug\net5.0\Ejercicio I02 - Error al cubo.deps.json
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\bin\Debug\net5.0\Ejercicio I02 - Error al cubo.runtimeconfig.json
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\bin\Debug\net5.0\Ejercicio I02 - Error al cubo.runtimeconfig.dev.json
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\bin\Debug\net5.0\Ejercicio I02 - Error al cubo.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\bin\Debug\net5.0\Ejercicio I02 - Error al cubo.pdb
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.csproj.AssemblyReference.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.AssemblyInfoInputs.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.AssemblyInfo.cs
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\obj\Debug\net5.0\refint\Ejercicio I02 - Error al cubo.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.pdb
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.genruntimeconfig.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\EjercitacionClase2D-Viazzo-Juan\Ejercicio I02 - Error al cubo\obj\Debug\net5.0\ref\Ejercicio I02 - Error al cubo.dll

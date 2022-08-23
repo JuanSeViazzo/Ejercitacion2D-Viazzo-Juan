@@ -16,19 +16,22 @@ namespace Ejercicio_I01___Máximo__mínimo_y_promedio
             for (i = 0; i < 5; i++)
             {
                 Console.WriteLine("Por favor ingrese un numero");
-                float.TryParse(Console.ReadLine(), out numero);
-                maximo = Math.Max(numero, maximo);
-                minimo = Math.Min(numero, minimo);
-                promedio= promedio + numero;    
-
-
+                bool num = float.TryParse(Console.ReadLine(), out numero);
+                if (num)
+                {
+                    maximo = Math.Max(numero, maximo);
+                    minimo = Math.Min(numero, minimo);
+                    promedio = promedio + numero;
+                }
+                else
+                {
+                    i--;
+                  
+                }
 
             }
             promedio = promedio / i;
-
             Console.WriteLine($"El maximo es: {maximo}, el minimo es {minimo}, el prom es {promedio}", maximo,minimo, promedio);
-
-
             Console.ReadKey();
 
 

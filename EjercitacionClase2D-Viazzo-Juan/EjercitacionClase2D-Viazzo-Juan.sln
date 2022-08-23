@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I01 - M√°ximo, m√
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase1", "Clase1", "{E2E4CCC5-633B-4DAD-B629-958B210544EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I02 - Error al cubo", "Ejercicio I02 - Error al cubo\Ejercicio I02 - Error al cubo.csproj", "{5A5A2B1C-849C-4257-80DC-DBD53E45A72D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{57703C48-7EAD-42A1-AD12-7589B087829A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57703C48-7EAD-42A1-AD12-7589B087829A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57703C48-7EAD-42A1-AD12-7589B087829A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A5A2B1C-849C-4257-80DC-DBD53E45A72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5A2B1C-849C-4257-80DC-DBD53E45A72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5A2B1C-849C-4257-80DC-DBD53E45A72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5A2B1C-849C-4257-80DC-DBD53E45A72D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{57703C48-7EAD-42A1-AD12-7589B087829A} = {E2E4CCC5-633B-4DAD-B629-958B210544EB}
+		{5A5A2B1C-849C-4257-80DC-DBD53E45A72D} = {E2E4CCC5-633B-4DAD-B629-958B210544EB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {771DCAB9-CB74-4AF9-AC6A-CCEE15B05DF3}
