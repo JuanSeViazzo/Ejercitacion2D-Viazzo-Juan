@@ -1,0 +1,19 @@
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\bin\Debug\net5.0\Desea continuar.exe
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\bin\Debug\net5.0\Desea continuar.deps.json
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\bin\Debug\net5.0\Desea continuar.runtimeconfig.json
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\bin\Debug\net5.0\Desea continuar.runtimeconfig.dev.json
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\bin\Debug\net5.0\Desea continuar.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\bin\Debug\net5.0\Desea continuar.pdb
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\bin\Debug\net5.0\Logica.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\bin\Debug\net5.0\Logica.pdb
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\obj\Debug\net5.0\Desea continuar.csproj.AssemblyReference.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\obj\Debug\net5.0\Desea continuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\obj\Debug\net5.0\Desea continuar.AssemblyInfoInputs.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\obj\Debug\net5.0\Desea continuar.AssemblyInfo.cs
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\obj\Debug\net5.0\Desea continuar.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\obj\Debug\net5.0\Desea continuar.csproj.CopyComplete
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\obj\Debug\net5.0\Desea continuar.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\obj\Debug\net5.0\refint\Desea continuar.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\obj\Debug\net5.0\Desea continuar.pdb
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\obj\Debug\net5.0\Desea continuar.genruntimeconfig.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Clases y métodos estáticos\Desea continuar\Desea continuar\obj\Debug\net5.0\ref\Desea continuar.dll
