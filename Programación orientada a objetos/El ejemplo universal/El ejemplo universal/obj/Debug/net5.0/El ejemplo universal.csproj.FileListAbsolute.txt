@@ -1,0 +1,19 @@
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\bin\Debug\net5.0\El ejemplo universal.exe
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\bin\Debug\net5.0\El ejemplo universal.deps.json
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\bin\Debug\net5.0\El ejemplo universal.runtimeconfig.json
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\bin\Debug\net5.0\El ejemplo universal.runtimeconfig.dev.json
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\bin\Debug\net5.0\El ejemplo universal.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\bin\Debug\net5.0\El ejemplo universal.pdb
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\bin\Debug\net5.0\Logica.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\bin\Debug\net5.0\Logica.pdb
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\obj\Debug\net5.0\El ejemplo universal.csproj.AssemblyReference.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\obj\Debug\net5.0\El ejemplo universal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\obj\Debug\net5.0\El ejemplo universal.AssemblyInfoInputs.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\obj\Debug\net5.0\El ejemplo universal.AssemblyInfo.cs
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\obj\Debug\net5.0\El ejemplo universal.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\obj\Debug\net5.0\El ejemplo universal.csproj.CopyComplete
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\obj\Debug\net5.0\El ejemplo universal.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\obj\Debug\net5.0\refint\El ejemplo universal.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\obj\Debug\net5.0\El ejemplo universal.pdb
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\obj\Debug\net5.0\El ejemplo universal.genruntimeconfig.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\El ejemplo universal\El ejemplo universal\obj\Debug\net5.0\ref\El ejemplo universal.dll
