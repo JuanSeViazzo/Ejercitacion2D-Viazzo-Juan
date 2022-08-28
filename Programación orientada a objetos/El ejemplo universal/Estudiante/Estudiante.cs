@@ -10,11 +10,11 @@ namespace Logica
         private string nombre;
         private int notaPrimerParcial;
         private int notaSegundoParcial;
-        Random random;
+        static Random random;
 
         static Estudiante()
         {
-            Random random = new Random();
+             random = new Random();
         }
 
         public Estudiante(string apellido, string legajo, string nombre)
@@ -39,9 +39,9 @@ namespace Logica
 
         public double CalcularNotaFinal()
         {
-            Random rnd = new Random();  
+            //Random rnd = new Random();  
             if (notaPrimerParcial >= 4 && notaSegundoParcial >= 4)
-                return rnd.Next(6, 10);
+                return random.Next(6, 10);
             else
                 return -1;
         }
