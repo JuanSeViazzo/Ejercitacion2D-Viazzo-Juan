@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Vienen_con_sistema_de_auto_navegación</RootNamespace>
+  </PropertyGroup>
+
+</Project>

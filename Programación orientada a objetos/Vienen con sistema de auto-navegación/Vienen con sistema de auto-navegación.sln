@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Vienen con sistema de auto-navegación\Logica.csproj", "{36785324-397D-44A7-A39B-8F335C6C1584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola", "Consola\Consola.csproj", "{56A2E40B-AD58-4786-9006-B92A924A0F39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36785324-397D-44A7-A39B-8F335C6C1584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36785324-397D-44A7-A39B-8F335C6C1584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36785324-397D-44A7-A39B-8F335C6C1584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36785324-397D-44A7-A39B-8F335C6C1584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A2E40B-AD58-4786-9006-B92A924A0F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A2E40B-AD58-4786-9006-B92A924A0F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A2E40B-AD58-4786-9006-B92A924A0F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A2E40B-AD58-4786-9006-B92A924A0F39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B91D983-7D01-49BE-A2DC-D9C68D152FF3}
+	EndGlobalSection
+EndGlobal

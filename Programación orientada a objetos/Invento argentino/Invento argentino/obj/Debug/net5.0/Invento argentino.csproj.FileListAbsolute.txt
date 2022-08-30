@@ -1,0 +1,12 @@
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\Invento argentino\Invento argentino\bin\Debug\net5.0\Invento argentino.deps.json
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\Invento argentino\Invento argentino\bin\Debug\net5.0\Invento argentino.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\Invento argentino\Invento argentino\bin\Debug\net5.0\Invento argentino.pdb
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\Invento argentino\Invento argentino\obj\Debug\net5.0\Invento argentino.csproj.AssemblyReference.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\Invento argentino\Invento argentino\obj\Debug\net5.0\Invento argentino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\Invento argentino\Invento argentino\obj\Debug\net5.0\Invento argentino.AssemblyInfoInputs.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\Invento argentino\Invento argentino\obj\Debug\net5.0\Invento argentino.AssemblyInfo.cs
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\Invento argentino\Invento argentino\obj\Debug\net5.0\Invento argentino.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\Invento argentino\Invento argentino\obj\Debug\net5.0\Invento argentino.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\Invento argentino\Invento argentino\obj\Debug\net5.0\refint\Invento argentino.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\Invento argentino\Invento argentino\obj\Debug\net5.0\Invento argentino.pdb
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Programación orientada a objetos\Invento argentino\Invento argentino\obj\Debug\net5.0\ref\Invento argentino.dll
