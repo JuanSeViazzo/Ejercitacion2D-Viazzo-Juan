@@ -16,6 +16,10 @@ namespace Consola
             empresa.conductores[1] = conductor2;
             empresa.conductores[2] = conductor3;
 
+            Conductor[] conducto = new Conductor[4];
+
+            Empresa empresita = new Empresa(conducto);
+
 
             foreach (Conductor item in empresa.conductores)
             {

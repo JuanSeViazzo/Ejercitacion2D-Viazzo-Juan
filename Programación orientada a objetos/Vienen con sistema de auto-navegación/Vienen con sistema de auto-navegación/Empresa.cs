@@ -10,6 +10,13 @@
             conductores = new Conductor[3];
         }
 
+        public Empresa(Conductor[] conductores)
+        {
+            this.conductores = conductores; 
+        }
+
+
+
         public Empresa(string nombre) : this()
         {
             this.nombre = nombre;

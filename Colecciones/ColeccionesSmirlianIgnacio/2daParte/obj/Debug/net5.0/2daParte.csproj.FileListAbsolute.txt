@@ -1,0 +1,16 @@
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\bin\Debug\net5.0\2daParte.exe
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\bin\Debug\net5.0\2daParte.deps.json
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\bin\Debug\net5.0\2daParte.runtimeconfig.json
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\bin\Debug\net5.0\2daParte.runtimeconfig.dev.json
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\bin\Debug\net5.0\2daParte.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\bin\Debug\net5.0\2daParte.pdb
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\obj\Debug\net5.0\2daParte.csproj.AssemblyReference.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\obj\Debug\net5.0\2daParte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\obj\Debug\net5.0\2daParte.AssemblyInfoInputs.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\obj\Debug\net5.0\2daParte.AssemblyInfo.cs
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\obj\Debug\net5.0\2daParte.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\obj\Debug\net5.0\2daParte.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\obj\Debug\net5.0\refint\2daParte.dll
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\obj\Debug\net5.0\2daParte.pdb
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\obj\Debug\net5.0\2daParte.genruntimeconfig.cache
+C:\Users\juans\source\EjercitacionClase2D-Viazzo-JuanSebastian\Colecciones\ColeccionesSmirlianIgnacio\2daParte\obj\Debug\net5.0\ref\2daParte.dll
